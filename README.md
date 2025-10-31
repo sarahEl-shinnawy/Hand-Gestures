@@ -24,7 +24,7 @@ The system is built in two main stages:
 ## Dataset
 
 The preprocessed dataset is available on Google Drive:
- [Download Preprocessed ASL Dataset]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1pr9Y90AI00PdY9oZG-VUh4vgTb3g0aUw/view?usp=drive_link))
+  [**Download Preprocessed ASL Dataset**](https://drive.google.com/file/d/1pr9Y90AI00PdY9oZG-VUh4vgTb3g0aUw/view?usp=drive_link)
 
 Files included:
 
